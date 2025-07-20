@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "name": "Gundam Card Game",
+      "version": "0.5.0.0",
+      "url": "https://github.com/AuSte720/GCG-OCTGN/raw/main/Gundam%20Card%20Game-0.5.0.0.nupkg",
+      "hash": "eee40c6b0c0b9003b67dbdcb1b80325ef6ac2c71"
+    }
+  ]
+}
